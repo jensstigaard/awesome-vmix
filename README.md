@@ -56,6 +56,7 @@ Sections ordered alpabetically
 ## Third-party software and development
 ### Applications
 * Free
+  * [vMix Alt-Tally](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
   * [UTC (Universal Title Controller)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
 * Open Source
