@@ -39,7 +39,7 @@ ToDo
 
 
 ## Scripting (inside vMix using VB.net)
-ToDo
+* [VB.NET Scripting page on vMix Help (Official)](https://www.vmix.com/help23/VBNetScripting.html)
 
 
 ## Shows concerning vMix
