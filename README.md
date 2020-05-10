@@ -11,6 +11,8 @@ A curated list of resources related to vMix.
  * [Shows concerning vMix](#shows-concerning-vmix)
  * [Tutorial videos](#tutorial-videos)
 
+---
+
 ## Forums
  * [vMix Official Forums](https://forums.vmix.com/)
  * Facebook groups
