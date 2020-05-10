@@ -1,6 +1,3 @@
-<!--#
-VERSION=23
-$-->
 # Awesome vMix
 
 A curated list of resources related to vMix.
@@ -15,7 +12,7 @@ A curated list of resources related to vMix.
 ---
 
 ## Documentation
-  * [vMix Official Documentation (Help pages)](https://www.vmix.com/help{{ VERSION }}/)
+  * [vMix Official Documentation (Help pages)](https://www.vmix.com/help23/)
 
 ## Forums
  * [vMix Official Forums](https://forums.vmix.com/)
