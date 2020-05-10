@@ -8,7 +8,7 @@ Sections ordered alpabetically
   * [Forums](#forums)
   * [Hardware support & recommendations](#hardware-support--recommendations)
   * [MIDI controller setups (Shortcuts & activators)](#midi-controller-setups-shortcuts--activators)
-  * [Scripting (inside vMix using VB.net)](#scripting-inside-vmix-using-vbnet)
+  * [Scripting (inside vMix using VB.NET)](#scripting-inside-vmix-using-vbnet)
   * [Shows concerning vMix](#shows-concerning-vmix)
   * [Tally systems](#tally-systems)
   * [Third-party software and development](#third-party-software-and-development)
@@ -40,7 +40,7 @@ Sections ordered alpabetically
 ToDo
 
 
-## Scripting (inside vMix using VB.net)
+## Scripting (inside vMix using VB.NET)
 * [VB.NET Scripting page on vMix Help (Official)](https://www.vmix.com/help23/VBNetScripting.html)
 
 
