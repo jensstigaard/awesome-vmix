@@ -8,6 +8,7 @@ A curated list of resources related to vMix
 ## Contents
  - [Forums](#forums)
  - [Hardware support & recommendations](#hardware-support--recommendations)
+ - [Shows concerning vMix](#shows-concerning-vmix)
  - [Tutorial videos](#tutorial-videos)
 
 ## Forums
@@ -17,6 +18,9 @@ A curated list of resources related to vMix
  - [Official list of supported capture cards](https://www.vmix.com/software/supported-hardware.aspx#capturehardware)
  - [vMix Reference Systems](https://www.vmix.com/products/vmix-reference-systems.aspx)
  
+## Shows concerning vMix
+ - [Streaming Idiots by Eastern Shore Broadcasting (Wednesday 3PM EST)](http://easternshorebroadcasting.com/watch-live-2-3-2/)
+
 ## Tutorial videos
  - [vMix YouTube channel (english only)](https://www.youtube.com/user/vmixcomau)
   
