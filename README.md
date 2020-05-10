@@ -37,7 +37,7 @@ Sections ordered alpabetically
 
 
 ## MIDI controller setups (Shortcuts & activators)
- * []()
+ * [Akai APC MINI setup by DWAM](https://forums.vmix.com/posts/t9765-Overview-video-Akai-APC-Mini-with-vMix)
 
 
 ## Scripting (inside vMix using VB.NET)
