@@ -12,7 +12,8 @@ A curated list of resources related to vMix.
 ---
 
 ## Documentation
-  * [vMix Official Documentation (Help pages)](https://www.vmix.com/help23/)
+  * [vMix Official Documentation](https://www.vmix.com/help23/)
+    * [vMix Official Knowledge Base (Extremely helpful!)](https://www.vmix.com/knowledgebase/)
 
 ## Forums
  * [vMix Official Forums](https://forums.vmix.com/)
