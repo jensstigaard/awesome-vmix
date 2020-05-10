@@ -29,6 +29,10 @@ A curated list of resources related to vMix.
 ## Shows concerning vMix
  * [Streaming Idiots by Eastern Shore Broadcasting (Wednesday 3PM EST)](http://easternshorebroadcasting.com/watch-live-2-3-2/)
  * [vMix Fun Time Live Show (One show every month)](https://www.youtube.com/playlist?list=PLrm0RX9U0MzztIw6MGz7Tdo71MCENS05O)
+ 
+# Titles
+ * Animated titles
+   * [Kayla Record - Animated titles packages](https://www.kaylarecord.site/)
 
 ## Tutorial videos
  * [vMix YouTube channel (Official, english only)](https://www.youtube.com/user/vmixcomau)
