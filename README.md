@@ -55,8 +55,9 @@ ToDo
 * Open Source
   * [Audio Matrix vMix Electron](https://github.com/jensstigaard/audio-matrix-vmix-electron)
   * [Simple vMix Switcher Electron](https://github.com/jensstigaard/simple-vmix-switcher-electron)
-* Licensed
+* Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
+  * [vMix Virtual Control Surface for iPad](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
 
 ### Libraries
 * Open Source
