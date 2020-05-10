@@ -57,7 +57,7 @@ ToDo
   * [Simple vMix Switcher Electron](https://github.com/jensstigaard/simple-vmix-switcher-electron)
 * Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
-  * [vMix Virtual Control Surface for iPad](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
+  * [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - $ 4.99 [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
 
 ### Libraries
 * Open Source
