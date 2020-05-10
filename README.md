@@ -14,6 +14,7 @@ Sections ordered alpabetically
   * [Third-party software and development](#third-party-software-and-development)
   * [Titles (GT and XAML)](#titles-gt-and-xaml)
   * [Tutorial videos](#tutorial-videos)
+  * [vMix Call](#vmix-call)
 
 ---
 
@@ -78,3 +79,7 @@ ToDo
 ## Tutorial videos
  * [vMix YouTube channel (Official, english only)](https://www.youtube.com/user/vmixcomau)
  * [School of Live Streaming](http://schooloflivestreaming.com)
+
+## vMix Call
+ * [vMix knowledge base: Diagnosing connection issues with vMix Call](https://www.vmix.com/knowledgebase/article.aspx/214/diagnosing-connection-issues-with-vmix-call)
+ * [vMix knowledge base: vMix Call Firewall requirements](https://www.vmix.com/knowledgebase/article.aspx/125/vmix-call-firewall-requirements)
