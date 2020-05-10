@@ -56,9 +56,10 @@ Sections ordered alpabetically
 ## Third-party software and development
 ### Applications
 * Free
+  * [HTTP Matrix - Super basic vMix scheduler - by Eric Pratt](http://usbroadcast.co/httpmatrix.htm)
   * [vMix Alt-Tally](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
-  * [vMix Panel Builder Software](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
-  * [UTC (Universal Title Controller)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
+  * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
+  * [UTC (Universal Title Controller) - by Elgarf](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
 * Open Source
   * [Audio Matrix vMix Electron](https://github.com/jensstigaard/audio-matrix-vmix-electron)
   * [Simple vMix Switcher Electron](https://github.com/jensstigaard/simple-vmix-switcher-electron)
