@@ -3,7 +3,7 @@
 A curated list of resources related to vMix.
 
 ## Contents
-(Alpabetically)
+Sections ordered alpabetically
   * [Documentation](#documentation)
   * [Forums](#forums)
   * [Hardware support & recommendations](#hardware-support--recommendations)
