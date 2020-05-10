@@ -3,10 +3,15 @@
 A curated list of resources related to vMix.
 
 ## Contents
+(Alpabetically)
   * [Documentation](#documentation)
   * [Forums](#forums)
   * [Hardware support & recommendations](#hardware-support--recommendations)
+  * [MIDI controller setups (Shortcuts & activators)](#midi-controller-setups-shortcuts--activators)
+  * [Scripting (inside vMix using VB.net)](#scripting-inside-vmix-using-vb-net)
   * [Shows concerning vMix](#shows-concerning-vmix)
+  * [Third-party software and development](#third-party-software-and-development)
+  * [Titles (GT and XAML)](#titles-gt-and-xaml)
   * [Tutorial videos](#tutorial-videos)
 
 ---
@@ -15,6 +20,7 @@ A curated list of resources related to vMix.
   * [vMix Documentation (Official)](https://www.vmix.com/help23/)
   * [vMix Knowledge Base (Official, Extremely helpful!)](https://www.vmix.com/knowledgebase/)
 
+
 ## Forums
  * [vMix Forums (Official)](https://forums.vmix.com/)
  * Facebook groups
@@ -22,15 +28,19 @@ A curated list of resources related to vMix.
    * [vMix User Group & Training](https://www.facebook.com/groups/vMixTraining/)
    * [World Of Live Streaming](https://www.facebook.com/groups/WorldOfLiveStreaming/)
 
+
 ## Hardware support & recommendations
  * [List of supported capture cards (Official)](https://www.vmix.com/software/supported-hardware.aspx#capturehardware)
  * [vMix Reference Systems](https://www.vmix.com/products/vmix-reference-systems.aspx)
 
-## MIDI controller setups (Shortcuts and activators)
+
+## MIDI controller setups (Shortcuts & activators)
 ToDo
 
-## Scripting (directly in vMix - VB.net)
+
+## Scripting (inside vMix using VB.net)
 ToDo
+
 
 ## Shows concerning vMix
  * [Streaming Idiots by Eastern Shore Broadcasting (Wednesday 3PM EST)](http://easternshorebroadcasting.com/watch-live-2-3-2/)
@@ -54,9 +64,11 @@ ToDo
   * [vMix Function List](https://github.com/jensstigaard/vmix-function-list)
   * [vMix JS utils](https://github.com/jensstigaard/vmix-js-utils)
 
+
 ## Titles (GT and XAML)
  * Animated titles
    * [Kayla Record - Animated titles packages](https://www.kaylarecord.site/)
+
 
 ## Tutorial videos
  * [vMix YouTube channel (Official, english only)](https://www.youtube.com/user/vmixcomau)
