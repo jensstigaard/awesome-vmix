@@ -3,7 +3,7 @@ VERSION=23
 $-->
 # Awesome vMix
 
-A curated list of resources related to vMix
+A curated list of resources related to vMix.
 
 ## Contents
  * [Forums](#forums)
