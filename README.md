@@ -10,6 +10,7 @@ Sections ordered alpabetically
   * [MIDI controller setups (Shortcuts & activators)](#midi-controller-setups-shortcuts--activators)
   * [Scripting (inside vMix using VB.net)](#scripting-inside-vmix-using-vb-net)
   * [Shows concerning vMix](#shows-concerning-vmix)
+  * [Tally systems](#tally-systems)
   * [Third-party software and development](#third-party-software-and-development)
   * [Titles (GT and XAML)](#titles-gt-and-xaml)
   * [Tutorial videos](#tutorial-videos)
@@ -46,6 +47,9 @@ ToDo
  * [Streaming Idiots by Eastern Shore Broadcasting (Wednesday 3PM EST)](http://easternshorebroadcasting.com/watch-live-2-3-2/)
  * [vMix Fun Time Live Show (One show every month)](https://www.youtube.com/playlist?list=PLrm0RX9U0MzztIw6MGz7Tdo71MCENS05O)
 
+
+## Tally systems
+ * [List of support tally systems (Official)](https://www.vmix.com/software/supported-hardware.aspx#tallylights)
 
 ## Third-party software and development
 ### Applications
