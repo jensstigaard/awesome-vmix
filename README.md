@@ -6,12 +6,16 @@ $-->
 A curated list of resources related to vMix.
 
 ## Contents
- * [Forums](#forums)
- * [Hardware support & recommendations](#hardware-support--recommendations)
- * [Shows concerning vMix](#shows-concerning-vmix)
- * [Tutorial videos](#tutorial-videos)
+  * [Documentation](#documentation)
+  * [Forums](#forums)
+  * [Hardware support & recommendations](#hardware-support--recommendations)
+  * [Shows concerning vMix](#shows-concerning-vmix)
+  * [Tutorial videos](#tutorial-videos)
 
 ---
+
+## Documentation
+  * [vMix Official Documentation (Help pages)](https://www.vmix.com/help{{ VERSION }}/)
 
 ## Forums
  * [vMix Official Forums](https://forums.vmix.com/)
