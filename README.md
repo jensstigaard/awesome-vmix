@@ -72,8 +72,9 @@ ToDo
 
 
 ## Titles (GT and XAML)
- * Animated titles
+ * Professional Graphics Package with animated titles
    * [Kayla Record - Animated titles packages](https://www.kaylarecord.site/)
+   * 
 
 
 ## Tutorial videos
