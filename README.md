@@ -8,5 +8,5 @@ A curated list of resources related to vMix
  - 
 
 ## Tutorial videos
- - [https://www.youtube.com/user/vmixcomau](vMix YouTube channel (english only))
+ - [vMix YouTube channel (english only)](https://www.youtube.com/user/vmixcomau)
   
