@@ -59,6 +59,7 @@ Sections ordered alpabetically
   * [HTTP Matrix - Super basic vMix scheduler - by Eric Pratt](http://usbroadcast.co/httpmatrix.htm)
   * [vMix Alt-Tally](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
+  * [vScheduler Automation - by vijay6672](https://forums.vmix.com/posts/t14800-vScheduler-24x7---NEW-vMix-Scheduler)
   * [UTC (Universal Title Controller) - by Elgarf](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
 * Open Source
   * [Audio Matrix vMix Electron](https://github.com/jensstigaard/audio-matrix-vmix-electron)
