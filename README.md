@@ -37,16 +37,22 @@ ToDo
  * [vMix Fun Time Live Show (One show every month)](https://www.youtube.com/playlist?list=PLrm0RX9U0MzztIw6MGz7Tdo71MCENS05O)
 
 
-# Third-party software and development
-* Applications
- * Free
+## Third-party software and development
+### Applications
+* Free
   * [vMix Panel Builder Software](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
   * [UTC (Universal Title Controller)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
-* Open Source applications
+* Open Source
   * [Audio Matrix vMix Electron](https://github.com/jensstigaard/audio-matrix-vmix-electron)
   * [Simple vMix Switcher Electron](https://github.com/jensstigaard/simple-vmix-switcher-electron)
-* Licensed applications
+* Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
+
+### Libraries
+* Open Source
+  * [NodeJS library for vMix](https://github.com/jensstigaard/node-vmix)
+  * [vMix Function List](https://github.com/jensstigaard/vmix-function-list)
+  * [vMix JS utils](https://github.com/jensstigaard/vmix-js-utils)
 
 ## Titles (GT and XAML)
  * Animated titles
