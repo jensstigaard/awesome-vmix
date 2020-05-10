@@ -37,7 +37,7 @@ Sections ordered alpabetically
 
 
 ## MIDI controller setups (Shortcuts & activators)
-ToDo
+ * []()
 
 
 ## Scripting (inside vMix using VB.NET)
@@ -51,6 +51,7 @@ ToDo
 
 ## Tally systems
  * [List of support tally systems (Official)](https://www.vmix.com/software/supported-hardware.aspx#tallylights)
+
 
 ## Third-party software and development
 ### Applications
@@ -81,6 +82,12 @@ ToDo
  * [vMix YouTube channel (Official, english only)](https://www.youtube.com/user/vmixcomau)
  * [School of Live Streaming](http://schooloflivestreaming.com)
 
+
 ## vMix Call
  * [vMix knowledge base: Diagnosing connection issues with vMix Call](https://www.vmix.com/knowledgebase/article.aspx/214/diagnosing-connection-issues-with-vmix-call)
  * [vMix knowledge base: vMix Call Firewall requirements](https://www.vmix.com/knowledgebase/article.aspx/125/vmix-call-firewall-requirements)
+
+
+
+# Contribution
+You are welcome to contribute with links to useful resources now already in the list. You can either send me an message or email, raise an Issue or make a Pull Request.
