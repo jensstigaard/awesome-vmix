@@ -59,7 +59,6 @@ Sections ordered alpabetically
   * [HTTP Matrix - Super basic vMix scheduler - by Eric Pratt](http://usbroadcast.co/httpmatrix.htm)
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
-  * [vScheduler Automation - by vijay6672](https://forums.vmix.com/posts/t14800-vScheduler-24x7---NEW-vMix-Scheduler)
   * [UTC (Universal Title Controller) - by Elgarf](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
 * Open Source
   * [Audio Matrix vMix Electron](https://github.com/jensstigaard/audio-matrix-vmix-electron)
@@ -67,6 +66,7 @@ Sections ordered alpabetically
 * Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
   * [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - $ 4.99 [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
+  * [vScheduler Automation](https://forums.vmix.com/posts/t14800-vScheduler-24x7---NEW-vMix-Scheduler) - $ 60
   * [vTask - 24/7 scheduling for vMix](https://vfxblend.com/)
 
 ### Libraries
