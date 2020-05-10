@@ -19,8 +19,9 @@ Sections ordered alpabetically
 ---
 
 ## Documentation
+  * [vMix Changelog (Official)](https://forums.vmix.com/posts/t20846-vMix-23-Changelog)
   * [vMix Documentation (Official)](https://www.vmix.com/help23/)
-  * [vMix Knowledge Base (Official, Extremely helpful!)](https://www.vmix.com/knowledgebase/)
+  * [vMix Knowledge Base (Official - extremely helpful!)](https://www.vmix.com/knowledgebase/)
 
 
 ## Forums
