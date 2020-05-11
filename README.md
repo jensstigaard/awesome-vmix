@@ -22,6 +22,7 @@ Sections ordered alpabetically
   * [vMix Changelog (Official)](https://forums.vmix.com/posts/t20846-vMix-23-Changelog)
   * [vMix Documentation (Official)](https://www.vmix.com/help23/)
   * [vMix Knowledge Base (Official - extremely helpful!)](https://www.vmix.com/knowledgebase/)
+  * [vMix Training Wiki](http://vmixtraining.com/wiki)
 
 
 ## Forums
@@ -84,17 +85,22 @@ Sections ordered alpabetically
 
 
 ## Tutorial videos
- * [vMix YouTube channel (Official, english only)](https://www.youtube.com/user/vmixcomau)
  * [School of Live Streaming](http://schooloflivestreaming.com)
+ * [vMix Training by Eric Pratt](https://www.udemy.com/course/vmix-training)
+ * [vMix YouTube channel (Official, english only)](https://www.youtube.com/user/vmixcomau)
 
 
 ## vMix Call
  * [vMix knowledge base: Diagnosing connection issues with vMix Call](https://www.vmix.com/knowledgebase/article.aspx/214/diagnosing-connection-issues-with-vmix-call)
  * [vMix knowledge base: vMix Call Firewall requirements](https://www.vmix.com/knowledgebase/article.aspx/125/vmix-call-firewall-requirements)
 
+
 ## VST3 audio plugins
  * [vMix Forums: List of VST3 plugins that works in vMix](https://forums.vmix.com/posts/t12330--List--VST3-Plug-ins-That-Work-In-vMix)
  * [Waves VST3 Plugins](https://www.waves.com/plugins)
+
+
+
 
 # Contribution
 You are welcome to contribute with links to useful resources now already in the list. You can either send me an message or email, raise an Issue or make a Pull Request.
