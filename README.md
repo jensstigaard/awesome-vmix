@@ -70,10 +70,11 @@ Sections ordered alpabetically
   * [TimeCode Reader for Production Back-Timing Reference by Raugert](https://forums.vmix.com/posts/t17782-TimeCode-Reader-for-Production-Back-Timing-Reference?fbclid=IwAR0KYOl1gePpt4xsMSJ0PX_NlQbjFu1PIV6wJg3RTWe9YYp8Nzr2SU1wMXA)
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
+
 * Open Source
-  * [Audio Matrix vMix Electron](https://github.com/jensstigaard/audio-matrix-vmix-electron)
-  * [Simple vMix Switcher Electron](https://github.com/jensstigaard/simple-vmix-switcher-electron)
-  * [vMix UTC(Universal Title Controller) - by Elgarf](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller) [Github repo](https://github.com/elgarf/vMixUTC)
+  * [Audio Matrix vMix Electron - by Jens Stigaard](https://github.com/jensstigaard/audio-matrix-vmix-electron)
+  * [Simple vMix Switcher Electron - by Jens Stigaard](https://github.com/jensstigaard/simple-vmix-switcher-electron)
+  * [vMixUTC (Universal Title Controller) - by Elgarf](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller) [Github repo](https://github.com/elgarf/vMixUTC)
   
 * Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
