@@ -45,7 +45,7 @@ Sections ordered alpabetically
 
 ## Scripting (inside vMix using VB.NET)
 * [VB.NET Scripting page on vMix Help (Official)](https://www.vmix.com/help23/VBNetScripting.html)
-
+* [vMix Forums: Scripting for Dummies](https://forums.vmix.com/posts/m73500-Scripting-for-Dummies)
 
 ## Shows concerning vMix
  * [Streaming Idiots by Eastern Shore Broadcasting (Wednesday 3PM EST)](http://easternshorebroadcasting.com/watch-live-2-3-2/)
