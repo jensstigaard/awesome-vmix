@@ -40,7 +40,7 @@ Sections ordered alpabetically
 
 ## Hardware support & recommendations
  * [List of supported capture cards (Official)](https://www.vmix.com/software/supported-hardware.aspx#capturehardware)
- * [vMix Reference Systems](https://www.vmix.com/products/vmix-reference-systems.aspx)
+ * [vMix Reference Systems (Official)](https://www.vmix.com/products/vmix-reference-systems.aspx)
 
 
 ## MIDI controller setups (Shortcuts & activators)
@@ -53,7 +53,7 @@ Sections ordered alpabetically
 
 ## Shows concerning vMix
  * [Streaming Idiots by Eastern Shore Broadcasting (Wednesday 3PM EST)](http://easternshorebroadcasting.com/watch-live-2-3-2/)
- * [vMix Fun Time Live Show (One show every month)](https://www.youtube.com/playlist?list=PLrm0RX9U0MzztIw6MGz7Tdo71MCENS05O)
+ * [vMix Fun Time Live Show (Official - One show every month)](https://www.youtube.com/playlist?list=PLrm0RX9U0MzztIw6MGz7Tdo71MCENS05O)
 
 
 ## SRT
@@ -70,10 +70,11 @@ Sections ordered alpabetically
   * [TimeCode Reader for Production Back-Timing Reference by Raugert](https://forums.vmix.com/posts/t17782-TimeCode-Reader-for-Production-Back-Timing-Reference?fbclid=IwAR0KYOl1gePpt4xsMSJ0PX_NlQbjFu1PIV6wJg3RTWe9YYp8Nzr2SU1wMXA)
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
-  * [UTC (Universal Title Controller) - by Elgarf](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
 * Open Source
   * [Audio Matrix vMix Electron](https://github.com/jensstigaard/audio-matrix-vmix-electron)
   * [Simple vMix Switcher Electron](https://github.com/jensstigaard/simple-vmix-switcher-electron)
+  * [vMix UTC(Universal Title Controller) - by Elgarf](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller) [Github repo](https://github.com/elgarf/vMixUTC)
+  
 * Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
   * [Virtual Video Director](https://w.np.co.nz/software) - $ 220
