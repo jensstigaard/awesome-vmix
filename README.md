@@ -65,23 +65,25 @@ Sections ordered alpabetically
 
 ## Third-party software and development
 ### Applications
-* Free
+
+#### Free
   * [HTTP Matrix - Super basic vMix scheduler - by Eric Pratt](http://usbroadcast.co/httpmatrix.htm)
   * [TimeCode Reader for Production Back-Timing Reference by Raugert](https://forums.vmix.com/posts/t17782-TimeCode-Reader-for-Production-Back-Timing-Reference?fbclid=IwAR0KYOl1gePpt4xsMSJ0PX_NlQbjFu1PIV6wJg3RTWe9YYp8Nzr2SU1wMXA)
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
 
-* Open Source
+#### Open Source
   * [Audio Matrix vMix Electron - by Jens Stigaard](https://github.com/jensstigaard/audio-matrix-vmix-electron)
   * [Simple vMix Switcher Electron - by Jens Stigaard](https://github.com/jensstigaard/simple-vmix-switcher-electron)
   * [vMixUTC (Universal Title Controller) - by Elgarf](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller) [Github repo](https://github.com/elgarf/vMixUTC)
   
-* Paid / Licensed
+#### Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
   * [Virtual Video Director](https://w.np.co.nz/software) - $ 220
   * [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - $ 4.99 [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
   * [vScheduler 24x7 - Automation/Scheduling for vMix](http://www.sitescape.co.in/index.html) - $ 60
   * [vTask - 24/7 scheduling for vMix](https://vfxblend.com/)
+
 
 ### Libraries
 * Open Source
