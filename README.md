@@ -4,6 +4,7 @@ A curated list of resources related to vMix.
 
 ## Contents
 Sections ordered alpabetically
+  * [Audio](#audio)
   * [Documentation](#documentation)
   * [Forums](#forums)
   * [Hardware support & recommendations](#hardware-support--recommendations)
@@ -18,6 +19,9 @@ Sections ordered alpabetically
   * [vMix Call](#vmix-call)
 
 ---
+
+## Audio
+  * 
 
 ## Documentation
   * [vMix Changelog (Official)](https://forums.vmix.com/posts/t20846-vMix-23-Changelog)
