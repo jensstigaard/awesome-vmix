@@ -62,8 +62,9 @@ Sections ordered alpabetically
 ## Tally systems
  * [List of support tally systems (Official)](https://www.vmix.com/software/supported-hardware.aspx#tallylights)
 
-### DIY / Open Source
+#### DIY / Open Source
  * [Arduino vMix Tally by Thomas Mout](https://github.com/ThomasMout/Arduino-vMix-tally)
+
 
 ## Third-party software and development
 ### Applications
