@@ -64,6 +64,7 @@ Sections ordered alpabetically
 
 #### DIY / Open Source
  * [Arduino vMix Tally by Thomas Mout](https://github.com/ThomasMout/Arduino-vMix-tally)
+ * [vMix Tally Light For M5StickC by henny19](https://github.com/henny19/vmix_tally_M5stickC)
 
 
 ## Third-party software and development
