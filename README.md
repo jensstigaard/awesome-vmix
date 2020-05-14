@@ -1,6 +1,6 @@
 # Awesome vMix
 
-A curated list of resources related to vMix.
+A curated list of especially useful resources related to vMix.
 
 ## Contents
 Sections ordered alpabetically
