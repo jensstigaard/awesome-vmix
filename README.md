@@ -79,8 +79,8 @@ Sections ordered alpabetically
   
 #### Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
-  * [Virtual Video Director](https://w.np.co.nz/software) - $ 220
-  * [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - $ 4.99 [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
+  * [Virtual Video Director](https://w.np.co.nz/software) - $ 220 - [(Forum post)](https://forums.vmix.com/posts/t3678findunread--NEW---vMix-Audio-Controlled-Switcher---NjastadCom)
+  * [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - $ 4.99 - [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
   * [vScheduler 24x7 - Automation/Scheduling for vMix](http://www.sitescape.co.in/index.html) - $ 60
   * [vTask - 24/7 scheduling for vMix](https://vfxblend.com/)
 
