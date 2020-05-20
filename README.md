@@ -63,8 +63,9 @@ Sections ordered alpabetically
  * [List of support tally systems (Official)](https://www.vmix.com/software/supported-hardware.aspx#tallylights)
 
 #### DIY / Open Source
- * [Arduino vMix Tally by Thomas Mout](https://github.com/ThomasMout/Arduino-vMix-tally)
- * [vMix Tally Light For M5StickC by henny19](https://github.com/henny19/vmix_tally_M5stickC)
+ * [Arduino vMix Tally - by Thomas Mout](https://github.com/ThomasMout/Arduino-vMix-tally)
+ * [vMix Tally Light For M5StickC - by henny19](https://github.com/henny19/vmix_tally_M5stickC)
+ * [Wireless Tally Lights using M5Stick - by guido-visser](https://github.com/guido-visser/vMix-M5Stick-Tally-Light)
 
 
 ## Third-party software and development
