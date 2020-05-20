@@ -21,7 +21,7 @@ Sections ordered alpabetically
 ---
 
 ## Audio
-  * 
+  * [ASIO support](https://www.vmix.com/knowledgebase/article.aspx/68/asio-audio-support-in-vmix)
 
 ## Documentation
   * [vMix Changelog (Official)](https://forums.vmix.com/posts/t20846-vMix-23-Changelog)
@@ -57,7 +57,7 @@ Sections ordered alpabetically
 
 
 ## SRT
- * 
+ * [Diagnosing SRT connections](https://www.vmix.com/knowledgebase/article.aspx/245/diagnosing-srt-connections)
 
 ## Tally systems
  * [List of support tally systems (Official)](https://www.vmix.com/software/supported-hardware.aspx#tallylights)
