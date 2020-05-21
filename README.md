@@ -65,6 +65,7 @@ Sections ordered alpabetically
 #### DIY / Open Source
  * [Arduino vMix Tally - by Thomas Mout](https://github.com/ThomasMout/Arduino-vMix-tally)
  * [vMix Tally Light For M5StickC - by henny19](https://github.com/henny19/vmix_tally_M5stickC)
+ * [WiFi Tally Lights - by DynamoBen](https://github.com/DynamoBen/WIFItally)
  * [Wireless Tally Lights using M5Stick-C - by guido-visser](https://github.com/guido-visser/vMix-M5Stick-Tally-Light)
 
 
