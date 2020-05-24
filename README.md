@@ -86,6 +86,7 @@ Sections ordered alpabetically
   * [Simple vMix Switcher Electron - by Jens Stigaard](https://github.com/jensstigaard/simple-vmix-switcher-electron)
   * [vMixAudioMatrix - by Haavard15](https://github.com/Haavard15/vMixAudioMatrix) (Note: Google Analytics tracking)
   * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) - [(Forum post)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
+  * [vMix Input Progress Monitor - by Jens Stigaard](https://github.com/jensstigaard/vinprom)
   
 #### Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
