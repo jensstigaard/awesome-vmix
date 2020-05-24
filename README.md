@@ -8,7 +8,7 @@ Sections ordered alpabetically
   * [Documentation](#documentation)
   * [Forums](#forums)
   * [Hardware support & recommendations](#hardware-support--recommendations)
-  * [MIDI controller setups (Shortcuts & activators)](#midi-controller-setups-shortcuts--activators)
+  * [Hardware controllers](#hardware-controllers)
   * [Scripting (inside vMix using VB.NET)](#scripting-inside-vmix-using-vbnet)
   * [Shows concerning vMix](#shows-concerning-vmix)
   * [SRT](#srt)
@@ -38,13 +38,16 @@ Sections ordered alpabetically
    * [World Of Live Streaming](https://www.facebook.com/groups/WorldOfLiveStreaming/)
 
 
+## Hardware Controllers
+ * [Supported controllers (Official)](https://www.vmix.com/software/supported-hardware.aspx#controllers)
+
+#### MIDI setups
+ * [Akai APC Mini / vMix setup by DWAM](https://forums.vmix.com/posts/t9765-Overview-video-Akai-APC-Mini-with-vMix)
+
+
 ## Hardware support & recommendations
  * [List of supported capture cards (Official)](https://www.vmix.com/software/supported-hardware.aspx#capturehardware)
  * [vMix Reference Systems (Official)](https://www.vmix.com/products/vmix-reference-systems.aspx)
-
-
-## MIDI controller setups (Shortcuts & activators)
- * [Akai APC Mini / vMix setup by DWAM](https://forums.vmix.com/posts/t9765-Overview-video-Akai-APC-Mini-with-vMix)
 
 
 ## Scripting (inside vMix using VB.NET)
