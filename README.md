@@ -86,6 +86,7 @@ Sections ordered alpabetically
   
 #### Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
+  * [Central Control](https://centralcontrol.io/) - $ 49.95 - [(Forum post)](https://forums.vmix.com/posts/m76054-Central-Control)
   * [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - $ 4.99 - [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
   * [vScheduler 24x7 - Automation/Scheduling for vMix](http://www.sitescape.co.in/index.html) - $ 60
   * [vTask - 24/7 scheduling for vMix](https://vfxblend.com/)
