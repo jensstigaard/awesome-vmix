@@ -23,9 +23,6 @@ Sections ordered alpabetically
 ---
 
 
-**[`^        back to top        ^`](#)**
-
-
 
 ## Audio
   * [ASIO support](https://www.vmix.com/knowledgebase/article.aspx/68/asio-audio-support-in-vmix)
