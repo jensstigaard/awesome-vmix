@@ -30,9 +30,10 @@ Sections ordered alpabetically
 ## Documentation
   * [vMix Changelog (Official)](https://forums.vmix.com/posts/t20846-vMix-23-Changelog)
   * [vMix Documentation (Official)](https://www.vmix.com/help23/)
-  * [vMix Knowledge Base (Official - extremely helpful!)](https://www.vmix.com/knowledgebase/)
+  * [vMix Knowledge Base (Official - extremely useful!)](https://www.vmix.com/knowledgebase/)
   * [vMix Training Wiki](http://vmixtraining.com/wiki)
 
+## Education
 
 ## Forums
  * [vMix Forums (Official)](https://forums.vmix.com/)
@@ -105,6 +106,8 @@ Sections ordered alpabetically
   * [NodeJS library for vMix](https://github.com/jensstigaard/node-vmix)
   * [vMix Function List](https://github.com/jensstigaard/vmix-function-list)
   * [vMix JS utils](https://github.com/jensstigaard/vmix-js-utils)
+
+## Support channels / Premium Support
 
 
 ## Titles (GT and XAML)
