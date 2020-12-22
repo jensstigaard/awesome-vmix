@@ -91,7 +91,7 @@ Sections ordered alpabetically
   * [Simple vMix Switcher Electron - by Jens Stigaard](https://github.com/jensstigaard/simple-vmix-switcher-electron)
   * [vinproma (vMix Input Progress Monitor App) - by Jens Stigaard](https://github.com/jensstigaard/vinprom)
   * [vMixAudioMatrix - by Haavard15](https://github.com/Haavard15/vMixAudioMatrix) (Note: Google Analytics tracking)
-  * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) - [(Forum post)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
+  * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) - [(Forum post incl. download link)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
   
 #### Paid / Licensed
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html) - From $ 60 to $ 350
