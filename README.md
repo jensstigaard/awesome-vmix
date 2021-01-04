@@ -7,6 +7,7 @@ A curated list of especially useful resources related to vMix.
 ## Contents
 Sections ordered alpabetically
   * [Audio](#audio)
+  * [Communities](#communities)
   * [Documentation](#documentation)
   * [Forums](#forums)
   * [Hardware support & recommendations](#hardware-support--recommendations)
@@ -27,20 +28,25 @@ Sections ordered alpabetically
 ## Audio
   * [ASIO support](https://www.vmix.com/knowledgebase/article.aspx/68/asio-audio-support-in-vmix)
 
-## Documentation
-  * [vMix Changelog (Official)](https://forums.vmix.com/posts/t20846-vMix-23-Changelog)
-  * [vMix Documentation (Official)](https://www.vmix.com/help23/)
-  * [vMix Knowledge Base (Official - extremely useful!)](https://www.vmix.com/knowledgebase/)
-  * [vMix Training Wiki](http://vmixtraining.com/wiki)
 
-## Education
-
-## Forums
- * [vMix Forums (Official)](https://forums.vmix.com/)
+## Communities
  * Facebook groups
    * [Streaming Idiots Facebook group](https://www.facebook.com/groups/StreamingIdiots/)
    * [vMix User Group & Training](https://www.facebook.com/groups/vMixTraining/)
    * [World Of Live Streaming](https://www.facebook.com/groups/WorldOfLiveStreaming/)
+
+
+## Documentation
+ * [vMix Changelog (Official)](https://forums.vmix.com/posts/t20846-vMix-23-Changelog)
+ * [vMix Documentation (Official)](https://www.vmix.com/help23/)
+ * [vMix Knowledge Base (Official - extremely useful!)](https://www.vmix.com/knowledgebase/)
+ * [vMix Training Wiki](http://vmixtraining.com/wiki)
+
+## Education
+ * [vMix Training: From Basic to Amazing - by Eric Pratt](https://www.udemy.com/course/vmix-training/)
+
+## Forums
+ * [vMix Forums (Official)](https://forums.vmix.com/)
 
 
 ## Hardware Controllers
