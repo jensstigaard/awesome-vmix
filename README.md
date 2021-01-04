@@ -9,7 +9,7 @@ Sections ordered alpabetically
   * [Audio](#audio)
   * [Communities](#communities)
   * [Documentation](#documentation)
-  * [Education & Training](#education-training)
+  * [Education & Training](#education--training)
   * [Forums](#forums)
   * [Hardware support & recommendations](#hardware-support--recommendations)
   * [Hardware controllers](#hardware-controllers)
