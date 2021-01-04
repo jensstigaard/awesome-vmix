@@ -19,7 +19,6 @@ Sections ordered alpabetically
   * [Tally systems](#tally-systems)
   * [Third-party software and development](#third-party-software-and-development)
   * [Titles (GT and XAML)](#titles-gt-and-xaml)
-  * [Tutorial videos](#tutorial-videos)
   * [vMix Call](#vmix-call)
 
 ---
@@ -44,9 +43,14 @@ Sections ordered alpabetically
  * [vMix Training Wiki](http://vmixtraining.com/wiki)
 
 ## Education & Training
+### Courses
  * [vMix Master Class - Video Production & Live Streaming - by Paul Richards](https://www.udemy.com/course/vmix-live-streaming/)
  * [vMix Training: From Basic to Amazing - by Eric Pratt](https://www.udemy.com/course/vmix-training/)
 
+### Tutorial videos (Free)
+ * [School of Live Streaming](http://schooloflivestreaming.com)
+ * [vMix YouTube channel (Official, english only)](https://www.youtube.com/user/vmixcomau)
+ 
 ## Forums
  * [vMix Forums (Official)](https://forums.vmix.com/)
 
@@ -116,18 +120,12 @@ Sections ordered alpabetically
   * [vMix JS utils](https://github.com/jensstigaard/vmix-js-utils)
 
 ## Support channels / Premium Support
-
+ * [List of Authorized Premium Support channels (Official)](https://www.vmix.com/purchase/resellers.aspx?Product=Premium+Support)
 
 ## Titles (GT and XAML)
- * Professional Graphics Package with animated titles
-   * [Kayla Record - Animated titles packages](https://www.kaylarecord.site/)
-   * 
 
-
-## Tutorial videos
- * [School of Live Streaming](http://schooloflivestreaming.com)
- * [vMix Training by Eric Pratt](https://www.udemy.com/course/vmix-training)
- * [vMix YouTube channel (Official, english only)](https://www.youtube.com/user/vmixcomau)
+### Professional Graphics Package with animated titles
+ * [Kayla Record - Animated titles packages](https://www.kaylarecord.site/)
 
 
 ## vMix Call
