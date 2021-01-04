@@ -9,6 +9,7 @@ Sections ordered alpabetically
   * [Audio](#audio)
   * [Communities](#communities)
   * [Documentation](#documentation)
+  * [Education & Training](#education-training)
   * [Forums](#forums)
   * [Hardware support & recommendations](#hardware-support--recommendations)
   * [Hardware controllers](#hardware-controllers)
@@ -42,7 +43,8 @@ Sections ordered alpabetically
  * [vMix Knowledge Base (Official - extremely useful!)](https://www.vmix.com/knowledgebase/)
  * [vMix Training Wiki](http://vmixtraining.com/wiki)
 
-## Education
+## Education & Training
+ * [vMix Master Class - Video Production & Live Streaming - by Paul Richards](https://www.udemy.com/course/vmix-live-streaming/)
  * [vMix Training: From Basic to Amazing - by Eric Pratt](https://www.udemy.com/course/vmix-training/)
 
 ## Forums
