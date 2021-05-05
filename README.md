@@ -108,7 +108,7 @@ Sections ordered alpabetically
   * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) - [(Forum post incl. download link)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
   
 #### Paid / Licensed
-  * ![Price paid](https://img.shields.io/badge/price-%24%2060--350-orange) [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
+  * ![Price paid](https://img.shields.io/badge/price-%24%2060%20--%20350-orange) [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
   * ![Price paid](https://img.shields.io/badge/price-%24%2049.99-orange) [Central Control](https://centralcontrol.io/) - [(Forum post)](https://forums.vmix.com/posts/m76054-Central-Control)
   * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
   * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vScheduler 24x7 - Automation/Scheduling for vMix](http://www.sitescape.co.in/index.html)
