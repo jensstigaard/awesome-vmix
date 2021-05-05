@@ -108,12 +108,12 @@ Sections ordered alpabetically
   * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) - [(Forum post incl. download link)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
   
 #### Paid / Licensed
-  * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html) - From $ 60 to $ 350
-  * [Central Control](https://centralcontrol.io/) - $ 49.99 - [(Forum post)](https://forums.vmix.com/posts/m76054-Central-Control)
-  * [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - $ 4.99 - [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
-  * [vScheduler 24x7 - Automation/Scheduling for vMix](http://www.sitescape.co.in/index.html) - $ 60
-  * [vTask - 24/7 scheduling for vMix](https://vfxblend.com/)
-  * [VVD (Virtual Video Director)](https://w.np.co.nz/software) - $ 220 - [(Forum post)](https://forums.vmix.com/posts/t3678findunread--NEW---vMix-Audio-Controlled-Switcher---NjastadCom)
+  * ![Price paid](https://img.shields.io/badge/price-%24%2060--350-orange) [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
+  * ![Price paid](https://img.shields.io/badge/price-%24%2049.99-orange) [Central Control](https://centralcontrol.io/) - [(Forum post)](https://forums.vmix.com/posts/m76054-Central-Control)
+  * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
+  * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vScheduler 24x7 - Automation/Scheduling for vMix](http://www.sitescape.co.in/index.html)
+  * ![Price paid](https://img.shields.io/badge/price-unknown-red) [vTask - 24/7 scheduling for vMix](https://vfxblend.com/)
+  * ![Price paid](https://img.shields.io/badge/price-%24%20220-orange) [VVD (Virtual Video Director)](https://w.np.co.nz/software) - [(Forum post)](https://forums.vmix.com/posts/t3678findunread--NEW---vMix-Audio-Controlled-Switcher---NjastadCom)
 
 ### Libraries
 * Open Source
