@@ -49,6 +49,7 @@ Sections ordered alpabetically
 
 ### Tutorial videos (Free)
  * [School of Live Streaming](http://schooloflivestreaming.com)
+ * [Streamingtech (YouTube channel)](https://www.youtube.com/c/Streamingtech)
  * [vMix YouTube channel (Official, english only)](https://www.youtube.com/user/vmixcomau)
  
 ## Forums
@@ -73,6 +74,7 @@ Sections ordered alpabetically
 
 ## Shows concerning vMix
  * [Streaming Idiots by Eastern Shore Broadcasting (Wednesday 3PM EST)](http://easternshorebroadcasting.com/watch-live-2-3-2/)
+ * [The Streaming Alchemy Show](https://www.youtube.com/c/TheStreamingAlchemyShow)
  * [vMix Fun Time Live Show (Official - One show every month)](https://www.youtube.com/playlist?list=PLrm0RX9U0MzztIw6MGz7Tdo71MCENS05O)
 
 
