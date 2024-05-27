@@ -85,28 +85,31 @@ Sections ordered alpabetically
  * [List of support tally systems (Official)](https://www.vmix.com/software/supported-hardware.aspx#tallylights)
 
 #### DIY / Open Source
- * [Arduino vMix Tally - by Thomas Mout](https://github.com/ThomasMout/Arduino-vMix-tally)
- * [vMix Tally Light For M5StickC - by henny19](https://github.com/henny19/vmix_tally_M5stickC)
+ * [Arduino vMix Tally - by Thomas Mout](https://github.com/ThomasMout/Arduino-vMix-tally) ![Github Repo Stars](https://img.shields.io/github/stars/ThomasMout/Arduino-vMix-tally?style=social)
+ * [vMix Tally Light For M5StickC - by henny19](https://github.com/henny19/vmix_tally_M5stickC) ![Github Repo Stars](https://img.shields.io/github/stars/henny19/vmix_tally_M5stickC?style=social)
  * [WiFi Tally Lights - by DynamoBen](https://github.com/DynamoBen/WIFItally) - [(Forum post)](https://forums.vmix.com/posts/t11414-WIFI-Tally-lights---Open-Source)
- * [Wireless Tally Lights using M5Stick-C - by guido-visser](https://github.com/guido-visser/vMix-M5Stick-Tally-Light)
+ * [Wireless Tally Lights using M5Stick-C - by guido-visser](https://github.com/guido-visser/vMix-M5Stick-Tally-Light) ![Github Repo Stars](https://img.shields.io/github/stars/guido-visser/vMix-M5Stick-Tally-Light?style=social)
 
 
 ## Third-party software and development
 ### Applications
 
-#### Free
+
+#### Open Source
+  * [Audio Matrix vMix Electron - by Jens Stigaard](https://github.com/jensstigaard/audio-matrix-vmix-electron) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/audio-matrix-vmix-electron?style=social)
+  * [Simple vMix Switcher Electron - by Jens Stigaard](https://github.com/jensstigaard/simple-vmix-switcher-electron) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/simple-vmix-switcher-electron?style=social)
+  * [vinproma (vMix Input Progress Monitor App) - by Jens Stigaard](https://github.com/jensstigaard/vinprom) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vinprom?style=social)
+  * [vMixAudioMatrix - by Haavard15](https://github.com/Haavard15/vMixAudioMatrix) (Note: Google Analytics tracking) ![Github Repo Stars](https://img.shields.io/github/stars/Haavard15/vMixAudioMatrix?style=social)
+  * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) ![Github Repo Stars](https://img.shields.io/github/stars/elgarf/vMixUTC?style=social) - [(Forum post incl. download link)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
+
+#### Free (closed source)
   * [HTTP Matrix - Super basic vMix scheduler - by Eric Pratt](http://usbroadcast.co/httpmatrix.htm)
   * [TimeCode Reader for Production Back-Timing Reference - by Raugert](https://forums.vmix.com/posts/t17782-TimeCode-Reader-for-Production-Back-Timing-Reference?fbclid=IwAR0KYOl1gePpt4xsMSJ0PX_NlQbjFu1PIV6wJg3RTWe9YYp8Nzr2SU1wMXA)
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
   * [Vrac - Remote Audio Controller for vMix](https://forums.vmix.com/posts/t25619--FREE--Vrac---Remote-Audio-Controller-for-Vmix)
-#### Open Source
-  * [Audio Matrix vMix Electron - by Jens Stigaard](https://github.com/jensstigaard/audio-matrix-vmix-electron)
-  * [Simple vMix Switcher Electron - by Jens Stigaard](https://github.com/jensstigaard/simple-vmix-switcher-electron)
-  * [vinproma (vMix Input Progress Monitor App) - by Jens Stigaard](https://github.com/jensstigaard/vinprom)
-  * [vMixAudioMatrix - by Haavard15](https://github.com/Haavard15/vMixAudioMatrix) (Note: Google Analytics tracking)
-  * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) - [(Forum post incl. download link)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
-  
+
+
 #### Paid / Licensed
   * ![Price paid](https://img.shields.io/badge/price-%24%2060%20--%20350-orange) [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html)
   * ![Price paid](https://img.shields.io/badge/price-%24%2049.99-orange) [Central Control](https://centralcontrol.io/) - [(Forum post)](https://forums.vmix.com/posts/m76054-Central-Control)
@@ -117,9 +120,9 @@ Sections ordered alpabetically
 
 ### Libraries
 * Open Source
-  * [NodeJS library for vMix](https://github.com/jensstigaard/node-vmix)
-  * [vMix Function List](https://github.com/jensstigaard/vmix-function-list)
-  * [vMix JS utils](https://github.com/jensstigaard/vmix-js-utils)
+  * [NodeJS library for vMix](https://github.com/jensstigaard/node-vmix) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/node-vmix?style=social)
+  * [vMix Function List](https://github.com/jensstigaard/vmix-function-list) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vmix-function-list?style=social)
+  * [vMix JS utils](https://github.com/jensstigaard/vmix-js-utils) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vmix-js-utils?style=social)
 
 ## Support channels / Premium Support
  * [List of Authorized Premium Support channels (Official)](https://www.vmix.com/purchase/resellers.aspx?Product=Premium+Support)
