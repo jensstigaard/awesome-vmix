@@ -87,7 +87,7 @@ Sections ordered alpabetically
 #### DIY / Open Source
  * [Arduino vMix Tally - by Thomas Mout](https://github.com/ThomasMout/Arduino-vMix-tally) ![Github Repo Stars](https://img.shields.io/github/stars/ThomasMout/Arduino-vMix-tally?style=social)
  * [vMix Tally Light For M5StickC - by henny19](https://github.com/henny19/vmix_tally_M5stickC) ![Github Repo Stars](https://img.shields.io/github/stars/henny19/vmix_tally_M5stickC?style=social)
- * [WiFi Tally Lights - by DynamoBen](https://github.com/DynamoBen/WIFItally) - [(Forum post)](https://forums.vmix.com/posts/t11414-WIFI-Tally-lights---Open-Source)
+ * [WiFi Tally Lights - by DynamoBen](https://github.com/DynamoBen/WIFItally) ![Github Repo Stars](https://img.shields.io/github/stars/DynamoBen/WIFItally?style=social) - [(Forum post)](https://forums.vmix.com/posts/t11414-WIFI-Tally-lights---Open-Source)
  * [Wireless Tally Lights using M5Stick-C - by guido-visser](https://github.com/guido-visser/vMix-M5Stick-Tally-Light) ![Github Repo Stars](https://img.shields.io/github/stars/guido-visser/vMix-M5Stick-Tally-Light?style=social)
 
 
