@@ -97,6 +97,7 @@ Sections ordered alpabetically
 
 #### Open Source
   * [Audio Matrix vMix Electron - by Jens Stigaard](https://github.com/jensstigaard/audio-matrix-vmix-electron) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/audio-matrix-vmix-electron?style=social)
+  * [dp-thumbnail-server - by Adelvo](https://github.com/AdelvoInc/dp-thumbnail-server) ![Github Repo Stars](https://img.shields.io/github/stars/AdelvoInc/dp-thumbnail-server?style=social) - Free thumbnail server for vMix inputs, companion tool for Directors Plan. macOS + Windows + Linux.
   * [Simple vMix Switcher Electron - by Jens Stigaard](https://github.com/jensstigaard/simple-vmix-switcher-electron) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/simple-vmix-switcher-electron?style=social)
   * [vinproma (vMix Input Progress Monitor App) - by Jens Stigaard](https://github.com/jensstigaard/vinprom) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vinprom?style=social)
   * [vMixAudioMatrix - by Haavard15](https://github.com/Haavard15/vMixAudioMatrix) (Note: Google Analytics tracking) ![Github Repo Stars](https://img.shields.io/github/stars/Haavard15/vMixAudioMatrix?style=social)
@@ -113,6 +114,8 @@ Sections ordered alpabetically
 
 #### Paid / Licensed
   * ![Price paid](https://img.shields.io/badge/price-%24%2049.99-orange) [Central Control](https://centralcontrol.io/) - [(Forum post)](https://forums.vmix.com/posts/m76054-Central-Control)
+  * ![Price paid](https://img.shields.io/badge/price-%24%2099%20launch-orange) [Directors Plan - by Adelvo](https://adelvo.io/directors-plan/) - Visual timeline automation, controller and one-click Companion export for vMix. macOS + Windows. Free trial, launch price $99 (regular $199).
+  * ![Price paid](https://img.shields.io/badge/price-%24%2029%20launch-orange) [LLT - Local Live Translator - by Adelvo](https://adelvo.io/llt/) - Real-time speech translation with direct vMix Title output. Runs 100% local on Apple Silicon (Whisper + Mistral MLX) or connects to Google / Deepgram / AssemblyAI / Azure. 101 languages, macOS. Launch price $29 (regular $49), includes free LLT-Mobile iOS companion app.
   * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
   * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vScheduler 24x7 - Automation/Scheduling for vMix](http://www.sitescape.co.in/index.html)
   * ![Price paid](https://img.shields.io/badge/price-unknown-red) [vTask - 24/7 scheduling for vMix](https://vfxblend.com/)
