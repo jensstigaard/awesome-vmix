@@ -97,7 +97,7 @@ Sections ordered alpabetically
 
 #### Open Source
   * [Audio Matrix vMix Electron - by Jens Stigaard](https://github.com/jensstigaard/audio-matrix-vmix-electron) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/audio-matrix-vmix-electron?style=social)
-  * [dp-thumbnail-server - by Adelvo](https://github.com/AdelvoInc/dp-thumbnail-server) ![Github Repo Stars](https://img.shields.io/github/stars/adelvo-software/dp-thumbnail-server?style=social) - Free thumbnail server for vMix inputs, companion tool for Directors Plan. macOS + Windows.
+  * [dp-thumbnail-server - by Adelvo](https://github.com/adelvo-software/dp-thumbnail-server) ![Github Repo Stars](https://img.shields.io/github/stars/adelvo-software/dp-thumbnail-server?style=social) - Free thumbnail server for vMix inputs, companion tool for Directors Plan. macOS + Windows.
   * [Simple vMix Switcher Electron - by Jens Stigaard](https://github.com/jensstigaard/simple-vmix-switcher-electron) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/simple-vmix-switcher-electron?style=social)
   * [vinproma (vMix Input Progress Monitor App) - by Jens Stigaard](https://github.com/jensstigaard/vinprom) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vinprom?style=social)
   * [vMixAudioMatrix - by Haavard15](https://github.com/Haavard15/vMixAudioMatrix) (Note: Google Analytics tracking) ![Github Repo Stars](https://img.shields.io/github/stars/Haavard15/vMixAudioMatrix?style=social)
