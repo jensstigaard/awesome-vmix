@@ -43,6 +43,7 @@ Sections ordered alpabetically
  * [vMix Training Wiki](http://vmixtraining.com/wiki)
 
 ## Education & Training
+
 ### Courses
  * [vMix Master Class - Video Production & Live Streaming - by Paul Richards](https://www.udemy.com/course/vmix-live-streaming/)
  * [vMix Training: From Basic to Amazing - by Eric Pratt](https://www.udemy.com/course/vmix-training/)
@@ -92,8 +93,8 @@ Sections ordered alpabetically
 
 
 ## Third-party software and development
-### Applications
 
+### Applications
 
 #### Open Source
   * [Audio Matrix vMix Electron - by Jens Stigaard](https://github.com/jensstigaard/audio-matrix-vmix-electron) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/audio-matrix-vmix-electron?style=social)
@@ -102,6 +103,7 @@ Sections ordered alpabetically
   * [vinproma (vMix Input Progress Monitor App) - by Jens Stigaard](https://github.com/jensstigaard/vinprom) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vinprom?style=social)
   * [vMixAudioMatrix - by Haavard15](https://github.com/Haavard15/vMixAudioMatrix) (Note: Google Analytics tracking) ![Github Repo Stars](https://img.shields.io/github/stars/Haavard15/vMixAudioMatrix?style=social)
   * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) ![Github Repo Stars](https://img.shields.io/github/stars/elgarf/vMixUTC?style=social) - [(Forum post incl. download link)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
+  * [vmix-utility - by FlowingSPDG](https://github.com/FlowingSPDG/vmix-utility) ![Github Repo Stars](https://img.shields.io/github/stars/FlowingSPDG/vmix-utility?style=social)
 
 #### Free (closed source)
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html) (previously a paid software product)
@@ -110,7 +112,7 @@ Sections ordered alpabetically
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
   * [Vrac - Remote Audio Controller for vMix](https://forums.vmix.com/posts/t25619--FREE--Vrac---Remote-Audio-Controller-for-Vmix)
-  * [VRC Hub (Video Recording Control) - by Kotin-ak](https://github.com/Kotin-ak/VRC-Releases) - A native Windows dashboard to monitor Rec/Stream status, CPU/GPU, and disk space for multiple vMix machines simultaneously.
+  * [VRC Hub (Video Recording Control) - by Kotin-ak](https://github.com/Kotin-ak/VRC-Releases) ![Github Repo Stars](https://img.shields.io/github/stars/Kotin-ak/VRC-Releases?style=social) - A native Windows dashboard to monitor Rec/Stream status, CPU/GPU, and disk space for multiple vMix machines simultaneously.
 
 
 #### Paid / Licensed
@@ -123,6 +125,7 @@ Sections ordered alpabetically
   * ![Price paid](https://img.shields.io/badge/price-%24%20220-orange) [VVD (Virtual Video Director)](https://w.np.co.nz/software) - [(Forum post)](https://forums.vmix.com/posts/t3678findunread--NEW---vMix-Audio-Controlled-Switcher---NjastadCom)
 
 ### Libraries
+
 * Open Source
   * [NodeJS library for vMix](https://github.com/jensstigaard/node-vmix) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/node-vmix?style=social)
   * [vMix Function List](https://github.com/jensstigaard/vmix-function-list) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vmix-function-list?style=social)
