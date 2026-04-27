@@ -110,6 +110,7 @@ Sections ordered alpabetically
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
   * [Vrac - Remote Audio Controller for vMix](https://forums.vmix.com/posts/t25619--FREE--Vrac---Remote-Audio-Controller-for-Vmix)
+  * [VRC Hub (Video Recording Control) - by Kotin-ak](https://github.com/Kotin-ak/VRC-Releases) - A native Windows dashboard to monitor Rec/Stream status, CPU/GPU, and disk space for multiple vMix machines simultaneously.
 
 
 #### Paid / Licensed
