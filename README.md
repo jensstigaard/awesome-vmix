@@ -109,6 +109,7 @@ Sections ordered alpabetically
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html) (previously a paid software product)
   * [HTTP Matrix - Super basic vMix scheduler - by Eric Pratt](http://usbroadcast.co/httpmatrix.htm)
   * [TimeCode Reader for Production Back-Timing Reference - by Raugert](https://forums.vmix.com/posts/t17782-TimeCode-Reader-for-Production-Back-Timing-Reference?fbclid=IwAR0KYOl1gePpt4xsMSJ0PX_NlQbjFu1PIV6wJg3RTWe9YYp8Nzr2SU1wMXA)
+  * [VSEditor (Virtual Set Editor) - by DDCast](https://vse.ddcast.com)
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
   * [vMix Panel Builder Software - by Raugert](https://forums.vmix.com/posts/t14529-vMix--Panel-Builder--for-Mac-Win-Android-tablets-iPads)
   * [Vrac - Remote Audio Controller for vMix](https://forums.vmix.com/posts/t25619--FREE--Vrac---Remote-Audio-Controller-for-Vmix)
