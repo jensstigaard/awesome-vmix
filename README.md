@@ -108,6 +108,7 @@ Sections ordered alpabetically
 #### Free (closed source)
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html) (previously a paid software product)
   * [HTTP Matrix - Super basic vMix scheduler - by Eric Pratt](http://usbroadcast.co/httpmatrix.htm)
+  * [MixDesk X - by Adelvo](https://adelvo.io/mix-desk-x/) ![Github Repo Stars](https://img.shields.io/github/stars/adelvo-software/MixDeskX?style=social) - Free audio mixer and live-PA processor to sit next to vMix: capture apps or the vMix output cable-free, up to 16 output buses with EQ, delay and limiter, LUFS metering post-vMix, X-over, auto-EQ, feedback destroyer, Companion export. macOS + Windows + Linux (beta). Optional network audio between computers (MixDesk X Pro, $19).
   * [TimeCode Reader for Production Back-Timing Reference - by Raugert](https://forums.vmix.com/posts/t17782-TimeCode-Reader-for-Production-Back-Timing-Reference?fbclid=IwAR0KYOl1gePpt4xsMSJ0PX_NlQbjFu1PIV6wJg3RTWe9YYp8Nzr2SU1wMXA)
   * [VSEditor (Virtual Set Editor) - by DDCast](https://vse.ddcast.com)
   * [vMix Alt-Tally - by Jens Stigaard](https://forums.vmix.com/posts/t9405--FREE--Alt-Tally)
@@ -118,8 +119,8 @@ Sections ordered alpabetically
 
 #### Paid / Licensed
   * ![Price paid](https://img.shields.io/badge/price-%24%2049.99-orange) [Central Control](https://centralcontrol.io/) - [(Forum post)](https://forums.vmix.com/posts/m76054-Central-Control)
-  * ![Price paid](https://img.shields.io/badge/price-%24%20199-orange) [Directors Plan - by Adelvo](https://adelvo.io/directors-plan/) - Visual timeline automation, controller and one-click Companion export for vMix. macOS + Windows. 30-day free trial. $199.
-  * ![Price paid](https://img.shields.io/badge/price-%24%2029-orange) [LLT - Local Live Translator - by Adelvo](https://adelvo.io/local-live-translator/) - Real-time speech translation with direct vMix Title output, OBS Browser Source, VRChat output, plus dictation. Runs 100% local on Apple Silicon (Whisper / Parakeet + Mistral MLX) or connects to Google / Deepgram / AssemblyAI / Azure. 101 languages, macOS. $29, includes free LLT-Mobile iOS companion app (Pro version via $12.99 in-app purchase).
+  * ![Price paid](https://img.shields.io/badge/price-%24%2049-orange) [Directors Plan - by Adelvo](https://adelvo.io/directors-plan/) - Visual timeline automation, controller and one-click Companion export for vMix, with live tally and a browser-based Web Controller for tablets and phones. macOS + Windows + Linux. 30-day free trial. $49 one-time.
+  * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [LLT - Local Live Translator - by Adelvo](https://adelvo.io/local-live-translator/) - Real-time speech translation with direct vMix Title output, OBS Browser Source, VRChat output, plus dictation. Runs 100% local on Apple Silicon (Whisper / Parakeet + Mistral MLX) or connects to Google / Deepgram / AssemblyAI / Azure. 101 languages, macOS. $9.99, includes free LLT-Mobile iOS companion app (Pro version via $12.99 in-app purchase).
   * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vMix Virtual Control Surface for iPad](https://apps.apple.com/us/app/vmix-virtual-control-surface/id978932322) - [(Forum post)](https://forums.vmix.com/posts/t16323-vMix-Virtual-Control-Surface-3-0-iPad-app--Now-Available)
   * ![Price paid](https://img.shields.io/badge/price-%24%209.99-orange) [vScheduler 24x7 - Automation/Scheduling for vMix](http://www.sitescape.co.in/index.html)
   * ![Price paid](https://img.shields.io/badge/price-unknown-red) [vTask - 24/7 scheduling for vMix](https://vfxblend.com/)
