@@ -60,6 +60,9 @@ Sections ordered alpabetically
 ## Hardware Controllers
  * [Supported controllers (Official)](https://www.vmix.com/software/supported-hardware.aspx#controllers)
 
+#### Elgato Stream Deck
+ * [streamdeck-studiocoast-vmix - by MikanseiLaboratory](https://github.com/MikanseiLaboratory/streamdeck-studiocoast-vmix) ![Github Repo Stars](https://img.shields.io/github/stars/MikanseiLaboratory/streamdeck-studiocoast-vmix?style=social) - Stream Deck plugin for vMix (Rust).
+
 #### MIDI setups
  * [Akai APC Mini / vMix setup by DWAM](https://forums.vmix.com/posts/t9765-Overview-video-Akai-APC-Mini-with-vMix)
 
@@ -128,7 +131,10 @@ Sections ordered alpabetically
 ### Libraries
 
 * Open Source
+  * [Edge library crate for vMix (Rust) - by MikanseiLaboratory](https://github.com/MikanseiLaboratory/edge-studiocoast-vmix) ![Github Repo Stars](https://img.shields.io/github/stars/MikanseiLaboratory/edge-studiocoast-vmix?style=social)
+  * [Go library for vMix HTTP/TCP API - by FlowingSPDG](https://github.com/FlowingSPDG/vmix-go) ![Github Repo Stars](https://img.shields.io/github/stars/FlowingSPDG/vmix-go?style=social)
   * [NodeJS library for vMix](https://github.com/jensstigaard/node-vmix) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/node-vmix?style=social)
+  * [Rust library for vMix HTTP/TCP API - by MikanseiLaboratory](https://github.com/MikanseiLaboratory/vmix-rs) ![Github Repo Stars](https://img.shields.io/github/stars/MikanseiLaboratory/vmix-rs?style=social)
   * [vMix Function List](https://github.com/jensstigaard/vmix-function-list) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vmix-function-list?style=social)
   * [vMix JS utils](https://github.com/jensstigaard/vmix-js-utils) ![Github Repo Stars](https://img.shields.io/github/stars/jensstigaard/vmix-js-utils?style=social)
 
